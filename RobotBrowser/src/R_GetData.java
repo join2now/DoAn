@@ -127,11 +127,11 @@ public class R_GetData {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String _link = "http://vietjack.com/java/hoc_java_co_ban.jsp";
+		//String _link = "http://vietjack.com/java/hoc_java_co_ban.jsp";
 		//String _pathSave="D:\\Subject\\HOC KY 2 CAO HOC\\Mon Cong Nghe Moi\\Do An\\result_links.txt";
-		String _pathSave="D:\\Subject\\HOC KY 2 CAO HOC\\Mon Cong Nghe Moi\\Do An\\result_linka.txt";
+		//String _pathSave="D:\\Subject\\HOC KY 2 CAO HOC\\Mon Cong Nghe Moi\\Do An\\result_linka.txt";
 		
-		String _pathHref="D:\\Subject\\HOC KY 2 CAO HOC\\Mon Cong Nghe Moi\\Do An\\result_href.txt";
+		//String _pathHref="D:\\Subject\\HOC KY 2 CAO HOC\\Mon Cong Nghe Moi\\Do An\\result_href.txt";
 		
 		//Geta(_link, _pathSave);
 		
